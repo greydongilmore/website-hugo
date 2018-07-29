@@ -1,10 +1,10 @@
 +++
-title = "Deep Brain Stimulation of the Subthalamic Nucleus Parameter Optimization for Vowel Acoustics and Speech Intelligibility in Parkinson's Disease"
-date = 2018-03-15T00:00:00
+title = "Segmentation and detection of physical activities during a sitting task in Parkinson’s disease participants using multiple inertial sensors"
+date = 2017-11-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Thea Knowles", "Scott Adams", "Anita Abeysekera", "Cynthia Mancinelli", "**Greydon Gilmore**" , "Mandar Jog"]
+authors = ["Sara Memar", "Mehdi Delrobaei", "**Greydon Gilmore**", "Kenneth McIsaac", "Mandar Jog"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Thea Knowles", "Scott Adams", "Anita Abeysekera", "Cynthia Mancinell
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Speech, Language, and Hearing Research*."
+publication = "In *Journal of Applied Biomedicine*."
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -43,7 +43,7 @@ projects = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/papers/Memar et al. - 2017 - Segmentation and detection of physical activities during a sitting task in Parkinsons disease participants using.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,7 +51,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://jslhr.pubs.asha.org/article.aspx?articleid=2673842"
+url_source = "https://www.sciencedirect.com/science/article/pii/S1214021X17300613"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

@@ -53,7 +53,7 @@
   translation: Poster
 
 - id: btn_source
-  translation: Source Document
+  translation: Source Website
 
 - id: btn_copy
   translation: Copy

@@ -1,10 +1,10 @@
 +++
-title = "Using Wearable Technology to Generate Objective Parkinson’s Disease Dyskinesia Severity Score: Possibilities for Home Monitoring"
-date = 2017-10-01T00:00:00
+title = "Deep brain stimulation and its effects on Parkinson disease spatiotemporal gait parameters"
+date = 2015-12-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Mehdi Delrobaei", "Navid Baktash", "**Greydon Gilmore**", "Kenneth McIsaac", "Mandar Jog"]
+authors = ["**Greydon Gilmore**"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = ["Mehdi Delrobaei", "Navid Baktash", "**Greydon Gilmore**", "Kenneth M
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["5"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Communication Disorders*."
+publication = "In *The University of Western Ontario*."
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -43,7 +43,7 @@ projects = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/papers/Gilmore - 2015 - Deep brain stimulation and its effects on Parkinson disease spatiotemporal gait parameters .pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,7 +51,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://ieeexplore.ieee.org/abstract/document/7891512/"
+url_source = "https://ir.lib.uwo.ca/etd/3390/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

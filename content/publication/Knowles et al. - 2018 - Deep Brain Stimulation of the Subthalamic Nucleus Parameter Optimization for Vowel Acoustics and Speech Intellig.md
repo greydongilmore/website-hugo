@@ -1,10 +1,10 @@
 +++
-title = "Deep brain stimulation and its effects on Parkinson disease spatiotemporal gait parameters"
-date = 2015-12-01T00:00:00
+title = "Deep Brain Stimulation of the Subthalamic Nucleus Parameter Optimization for Vowel Acoustics and Speech Intelligibility in Parkinson's Disease"
+date = 2018-03-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Greydon Gilmore**"]
+authors = ["Thea Knowles", "Scott Adams", "Anita Abeysekera", "Cynthia Mancinelli", "**Greydon Gilmore**" , "Mandar Jog"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = ["**Greydon Gilmore**"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["5"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *The University of Western Ontario*."
+publication = "In *Journal of Speech, Language, and Hearing Research*."
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -43,7 +43,7 @@ projects = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/papers/Knowles et al. - 2018 - Deep Brain Stimulation of the Subthalamic Nucleus Parameter Optimization for Vowel Acoustics and Speech Intellig.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,7 +51,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://ir.lib.uwo.ca/etd/3390/"
+url_source = "https://jslhr.pubs.asha.org/article.aspx?articleid=2673842"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

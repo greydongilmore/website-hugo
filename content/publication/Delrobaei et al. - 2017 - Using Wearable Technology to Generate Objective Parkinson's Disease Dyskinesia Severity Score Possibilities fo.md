@@ -1,10 +1,10 @@
 +++
-title = "Voice quality severity and responsiveness to levodopa in Parkinson's disease"
-date = 2018-07-22T00:00:00
+title = "Using Wearable Technology to Generate Objective Parkinson’s Disease Dyskinesia Severity Score: Possibilities for Home Monitoring"
+date = 2017-10-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daryn Cushnie-Sparrow", "Scott Adams", "Anita Abeysekera", "Marcus Pieterman", "**Greydon Gilmore**" , "Mandar Jog"]
+authors = ["Mehdi Delrobaei", "Navid Baktash", "**Greydon Gilmore**", "Kenneth McIsaac", "Mandar Jog"]
 
 # Publication type.
 # Legend:
@@ -43,7 +43,7 @@ projects = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/papers/Delrobaei et al. - 2017 - Using Wearable Technology to Generate Objective Parkinsons Disease Dyskinesia Severity Score Possibilities.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,7 +51,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.sciencedirect.com/science/article/abs/pii/S002199241730237X"
+url_source = "https://ieeexplore.ieee.org/abstract/document/7891512/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

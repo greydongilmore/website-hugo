@@ -1,10 +1,10 @@
 +++
-title = "Segmentation and detection of physical activities during a sitting task in Parkinson’s disease participants using multiple inertial sensors"
-date = 2017-11-01T00:00:00
+title = "Voice quality severity and responsiveness to levodopa in Parkinson's disease"
+date = 2018-07-22T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Sara Memar", "Mehdi Delrobaei", "**Greydon Gilmore**", "Kenneth McIsaac", "Mandar Jog"]
+authors = ["Daryn Cushnie-Sparrow", "Scott Adams", "Anita Abeysekera", "Marcus Pieterman", "**Greydon Gilmore**" , "Mandar Jog"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Sara Memar", "Mehdi Delrobaei", "**Greydon Gilmore**", "Kenneth McIs
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Applied Biomedicine*."
+publication = "In *Journal of Communication Disorders*."
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -43,7 +43,7 @@ projects = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/papers/Cushnie-Sparrow et al. - 2018 - Voice quality severity and responsiveness to levodopa in Parkinsons disease.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,7 +51,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.sciencedirect.com/science/article/pii/S1214021X17300613"
+url_source = "https://www.sciencedirect.com/science/article/abs/pii/S002199241730237X"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

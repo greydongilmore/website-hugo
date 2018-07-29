@@ -1,10 +1,10 @@
 +++
-title = "Future Perspectives: Assessment Tools and Rehabilitation in the New Age"
-date = 2017-03-22T00:00:00
+title = "The current state of postoperative imaging in the presence of deep brain stimulation electrodes"
+date = 2017-06-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Greydon Gilmore**" , "Mandar Jog"]
+authors = ["**Greydon Gilmore**", "Donald H Lee", "Andrew Parrent", "Mandar Jog"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = ["**Greydon Gilmore**" , "Mandar Jog"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["6"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Movement Disorders Rehabilitation*."
+publication = "In *Movement Disorders*."
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -43,7 +43,7 @@ projects = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/papers/Gilmore et al. - 2017 - The current state of postoperative imaging in the presence of deep brain stimulation electrodes.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,7 +51,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://link.springer.com/chapter/10.1007/978-3-319-46062-8_10"
+url_source = "https://onlinelibrary.wiley.com/doi/abs/10.1002/mds.27028"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
