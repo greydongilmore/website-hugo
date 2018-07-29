@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/greydongilmore/greydongilmore.github.io.git
+	branch = master
