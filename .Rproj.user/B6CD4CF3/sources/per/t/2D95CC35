@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532881376154.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1707466192",
+    "id" : "2D95CC35",
+    "lastKnownWriteTime" : 1532884526,
+    "last_content_update" : 1532884526417,
+    "path" : "~/R/code/greydongilmore/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "275,19",
+        "scrollLine" : "265"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
