@@ -40,5 +40,5 @@ weight = 5
 
 # Biography
 
-Greydon Gilmore is a current Ph.D. Candidate in Biomedical Engineering in the lab of Dr. Mandar Jog and Dr. Rajni Patel. His research interests include deep brain stimulation, localization echniques for electrodes post-operation. He has several industry partnered grants to improve precision and outcome of deep brain stimulation surgery for movement disorders.
+Greydon Gilmore is a current Ph.D. Candidate in Biomedical Engineering in the lab of Dr. Mandar Jog and Dr. Rajni Patel. His research interests include deep brain stimulation and localization techniques for electrodes post-operation. He has several industry partnered grants focused on improving precision and outcome of deep brain stimulation surgery for movement disorders.
 
