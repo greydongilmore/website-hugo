@@ -39,6 +39,6 @@ weight = 5
 +++
 
 # Biography
-
+<DIV align="justify">
 __Greydon Gilmore__ is a current Ph.D. Candidate in Biomedical Engineering in the lab of [Dr. Mandar Jog](http://www.schulich.uwo.ca/cns/people/bios_neurologists/bio-jog.html) and [Dr. Rajni Patel](https://www.eng.uwo.ca/electrical/faculty/patel_r/index.html). His research interests include deep brain stimulation and localization techniques for electrodes post-operation. He has several industry partnered grants focused on improving precision and outcome of deep brain stimulation surgery for movement disorders.
-
+</DIV>
