@@ -18,7 +18,7 @@ authors = ["Anita Abeyesekera", "Scott Adams", "Cynthia Mancinelli", "Thea Knowl
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *The Canadian journal of neurological sciences*."
+publication = "In *The Canadian journal of neurological sciences*"
 publication_short = ""
 
 # Abstract and optional shortened version.

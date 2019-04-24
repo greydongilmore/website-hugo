@@ -1,6 +1,6 @@
 +++
 title = "Medication status and dual-tasking on turning strategies in Parkinson disease"
-date = 2018-11-31T00:00:00
+date = 2018-11-30T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Mitch B. Adamson", "**Greydon Gilmore**", "Tyler W. Stratton", "Navi
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of the neurological sciences*."
+publication = "In *Journal of the neurological sciences*"
 publication_short = ""
 
 # Abstract and optional shortened version.

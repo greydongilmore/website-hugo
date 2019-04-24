@@ -18,7 +18,7 @@ authors = ["**Greydon Gilmore**"]
 publication_types = ["5"]
 
 # Publication name and optional abbreviated version.
-publication = "In *The University of Western Ontario*."
+publication = "In *The University of Western Ontario*"
 publication_short = ""
 
 # Abstract and optional shortened version.

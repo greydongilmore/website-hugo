@@ -1,6 +1,6 @@
 +++
 title = "Electrophysiological signal processing for intraoperative localization of subthalamic nuleus during deep brain stimulation surgery"
-date = 2018-11-31T01:00:00
+date = 2018-11-29T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Mahsa Khosravi", "Seyed Farokh Atashzar", "**Greydon Gilmore**" , "M
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *2018 IEEE Global Conference on Signal and Information Processing*."
+publication = "In *2018 IEEE Global Conference on Signal and Information Processing*"
 publication_short = ""
 
 # Abstract and optional shortened version.

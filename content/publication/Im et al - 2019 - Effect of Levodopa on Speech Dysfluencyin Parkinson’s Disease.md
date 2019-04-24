@@ -1,5 +1,5 @@
 +++
-title = "Effect of Levodopa on Speech Dysfluency in Parkinson's Disease."
+title = "Effect of Levodopa on Speech Dysfluency in Parkinson's Disease"
 date = 2018-11-01T00:00:00
 draft = false
 
@@ -18,7 +18,7 @@ authors = ["Hannah Im", "Scott Adams", "Anita Abeyesekera", "Marcus Pieterman", 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Movement disorders clinical practice*."
+publication = "In *Movement disorders clinical practice*"
 publication_short = ""
 
 # Abstract and optional shortened version.

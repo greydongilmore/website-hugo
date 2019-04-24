@@ -289,16 +289,21 @@ enableGitInfo = false
   weight = 5
 
 [[menu.main]]
+  name = "Training"
+  url = "#training"
+  weight = 6
+  
+[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 8
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
 [[menu.main]]
   name = "CV"
-  weight = 6
+  weight = 7
   hasChildren = true
   
 [[menu.main]]

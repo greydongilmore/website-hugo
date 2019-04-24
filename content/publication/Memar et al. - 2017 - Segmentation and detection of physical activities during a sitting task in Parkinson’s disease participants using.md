@@ -18,7 +18,7 @@ authors = ["Sara Memar", "Mehdi Delrobaei", "**Greydon Gilmore**", "Kenneth McIs
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Applied Biomedicine*."
+publication = "In *Journal of Applied Biomedicine*"
 publication_short = ""
 
 # Abstract and optional shortened version.

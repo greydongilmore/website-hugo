@@ -18,7 +18,7 @@ authors = ["**Greydon Gilmore**", "Donald H Lee", "Andrew Parrent", "Mandar Jog"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Movement Disorders*."
+publication = "In *Movement Disorders*"
 publication_short = ""
 
 # Abstract and optional shortened version.

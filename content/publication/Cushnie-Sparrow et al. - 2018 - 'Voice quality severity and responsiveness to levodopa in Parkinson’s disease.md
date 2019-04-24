@@ -18,7 +18,7 @@ authors = ["Daryn Cushnie-Sparrow", "Scott Adams", "Anita Abeysekera", "Marcus P
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Communication Disorders*."
+publication = "In *Journal of Communication Disorders*"
 publication_short = ""
 
 # Abstract and optional shortened version.

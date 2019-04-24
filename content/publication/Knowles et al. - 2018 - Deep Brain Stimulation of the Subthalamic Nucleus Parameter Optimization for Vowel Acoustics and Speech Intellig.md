@@ -18,7 +18,7 @@ authors = ["Thea Knowles", "Scott Adams", "Anita Abeysekera", "Cynthia Mancinell
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Speech, Language, and Hearing Research*."
+publication = "In *Journal of Speech, Language, and Hearing Research*"
 publication_short = ""
 
 # Abstract and optional shortened version.
