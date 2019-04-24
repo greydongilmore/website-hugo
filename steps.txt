@@ -1,0 +1,14 @@
+Delete the public directory
+
+git submodule add -f -b master https://github.com/greydongilmore/greydongilmore.github.io.git public
+
+git add .
+git commit -m "Commit"
+git push 
+
+hugo
+cd public
+git add .
+git commit -m "Build"
+git push
+cd ..
