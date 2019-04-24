@@ -19,13 +19,16 @@ weight = 70
 
 - __Year:__ 2019
 - __Institute:__ University of Washington 
+- [__Website__](https://neurohackademy.org/)
 
 ### __Deep Learning Reinforcement Learning Summer School__
 
 - __Year:__ 2018
 - __Institute:__ Vector Institute and CIFAR
+- [__Website__](https://dlrlsummerschool.ca/)
 
 ### __Intraoperative Neurophysiological Monitoring Course__
 
 - __Year:__ 2017
 - __Institute:__ Greenville Neuromodulation Centre
+- [__Website__](https://greenvilleneuromodulationcenter.com/announcements/event-2/)
