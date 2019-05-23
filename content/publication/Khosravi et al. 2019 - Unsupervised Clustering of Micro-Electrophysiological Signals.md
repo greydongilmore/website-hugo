@@ -1,6 +1,5 @@
 +++
-title = "Unsupervised Clustering of Micro-Electrophysiological Signals for
-localization of Subthalamic Nucleus during DBS Surgery"
+title = "Unsupervised Clustering of Micro-Electrophysiological Signals for localization of Subthalamic Nucleus during DBS Surgery"
 date = 2019-05-01T00:00:00
 draft = false
 
