@@ -3,13 +3,13 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Predicting Subthalamic Nucleus"
+title = "Electrophysiology Predictive Models"
 
 # Project summary to display on homepage.
-summary = "Optimal targeting of the subthalamic nucleus (STN) for Parkinson disease is essential to the clinical outcome. Machine learning, using single and multi-unit spike recordings from the operating room, will be used to estimate STN boundaries and optimal electrode placement."
+# summary = "Optimal targeting of the subthalamic nucleus (STN) for Parkinson disease is essential to the clinical outcome. Machine learning, using # single and multi-unit spike recordings from the operating room, will be used to estimate STN boundaries and optimal electrode placement."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "spikeTrace.png"
+image_preview = "project_icons/spikeTrace.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
