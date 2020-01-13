@@ -15,6 +15,12 @@ weight = 60
 
 +++
 
+### __Graduate Student Award__
+
+- __Year:__ 2020-2020
+- __Granting Agency:__ Parkinson’s Society of Canada
+- __Amount:__ $20,000 CAD
+- 
 ### __Intern Talentedge Program__
 
 - __Year:__ 2017-2019
