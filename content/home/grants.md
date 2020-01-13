@@ -17,7 +17,7 @@ weight = 60
 
 ### __Graduate Student Award__
 
-- __Year:__ 2020-2020
+- __Year:__ 2020-2022
 - __Granting Agency:__ Parkinson’s Society of Canada
 - __Amount:__ $20,000 CAD
 
